@@ -157,6 +157,8 @@ Each of the version 2 programs include an error as well.
 1. Search GitHub for if __name__ == "__main__":
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
+2. ![image](https://github.com/AMersman/streaming-03-rabbitmq/assets/91644580/7777cd9f-6c59-4db2-b4e3-7e1177c51089)
+
 
 ## Reference
 
@@ -166,4 +168,4 @@ Each of the version 2 programs include an error as well.
 
 ![Exploring the local virtual environment folder](./images/exploring_dot_venv.PNG)
 
-![Concurrent Terminals]([./AMersman/streaming-03-rabbitmq/blob/main/screenschot_running.PNG](https://github.com/AMersman/streaming-03-rabbitmq/blob/main/screenschot_running.png)https://github.com/AMersman/streaming-03-rabbitmq/blob/main/screenschot_running.png)
+
