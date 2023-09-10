@@ -61,7 +61,6 @@ def get_choco_rabbitmq_path():
     # Define the general directory where Chocolatey installs software
     # Use a raw string to avoid issues with backslashes (preface with r)
     base_choco_dir = r"C:\ProgramData\chocolatey\lib\rabbitmq\tools"
-
     # Check if the base choco directory exists
     if os.path.exists(base_choco_dir):
         # List all folders in the directory

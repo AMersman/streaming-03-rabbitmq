@@ -15,8 +15,8 @@ ch = conn.channel()
 # use the channel to declare a queue
 ch.queue_declare(queue="hello")
 
-# use the channel to publish a message to the queue
-ch.basic_publish(exchange="", routing_key="hello", body="Hello World!")
+# use the channel to publish a message to the queu
+ch.basic_publish(exchange="", routing_key="hello", body='I don\'t know why you say, "Goodbye", I say, "Hello, hello, hello"')
 
 # print a message to the console for the user
 print(" [x] Sent 'Hello World!'")
