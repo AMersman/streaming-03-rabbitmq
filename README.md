@@ -166,4 +166,4 @@ Each of the version 2 programs include an error as well.
 
 ![Exploring the local virtual environment folder](./images/exploring_dot_venv.PNG)
 
-![Concurrent Terminals](https://github.com/AMersman/streaming-03-rabbitmq/blob/main/screenschot_running.PNG)
+![Concurrent Terminals](./AMersman/streaming-03-rabbitmq/blob/main/screenschot_running.PNG)
